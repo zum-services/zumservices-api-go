@@ -42,7 +42,7 @@ ZS := ZUMServices.ZSwrapper {
 
 # Documentation
 
-API documentation is available at https://zum.services/documentation
+API documentation will be made available soon
 
 
 ## Methods
