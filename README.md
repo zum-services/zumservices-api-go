@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/zumcoin/zum-assets/master/ZumCoin/zumcoin_logo_design/3d_green_lite_bg/ZumLogo_800x200px_lite_bg.png" width="400"></p>
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/zum-services/zumservices-api-go)](https://goreportcard.com/report/github.com/zum-services/zumservices-api-go)
 [![GoDoc](https://godoc.org/github.com/zum-services/zumservices-api-go?status.svg)](https://godoc.org/github.com/zum-services/zumservices-api-go)
 
